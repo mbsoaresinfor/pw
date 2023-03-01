@@ -1,0 +1,15 @@
+1.servidor web,editor de texto (ide),
+navegador web.
+
+2.hospedar os recursos
+
+3. programas que ensapsula o server web,
+php e banco de dados (mysql).
+
+4. \htdocs
+
+5. DISCO\xampp\htdocs\financeiro\setorA\arquivo.html
+
+6. linguagem pra fazer nossas páginas web. Linguagem
+com caracteristicas de marcação, com código de marcação(tags), na qual cada tag realiza uma operação na página,
+como inserir uma tabela, imagem, texto e etc.
